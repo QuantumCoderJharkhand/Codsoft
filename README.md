@@ -20,5 +20,3 @@ The dataset used is the famous **Titanic dataset**, which includes passenger det
 
 
 
-# Run the script
-python titanic_survival.py
